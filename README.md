@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sagar and I'm a Freelancer.</p>
+<p align="left">My name is Sagar and i love to create things!</p>
 
 ###
 
