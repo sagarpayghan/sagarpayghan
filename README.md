@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sagar and i love to create things!</p>
+<p align="left">My name is Sagar, and I love to create things!</p>
 
 ###
 
