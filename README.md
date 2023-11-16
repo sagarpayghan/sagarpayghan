@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I can create web apps.<br>📚 I'm currently learning AI/ML<br>🎯 Goals: Master AI<br>🎲 Fun fact: Just started!</p>
+<p align="left">✨ I can create web apps.<br>📚 I'm currently learning Rest<br>🎯 Goals: Master Web Developement<br>🎲 Fun fact: Just started!</p>
 
 ###
 
